@@ -1,1 +1,1 @@
-# UnityProject
+# UnityProject This project is about creating a program that will allow the User to play a simple game of driving a car around obstacles and having constant speed with using the up arrows, down arrows, and side arrows to go forward, backwards, or left or right. (Forward ^), Backward/Slow down(Lower arrow), Left(<), right(>)
